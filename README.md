@@ -1,3 +1,8 @@
+### Molecular Dynamics
+[GROMACS .mdp options](http://manual.gromacs.org/online/mdp_opt.html)
+[HOOMD documentation](http://hoomd-blue.readthedocs.io/en/stable/)
+[LAMMPS commands](http://lammps.sandia.gov/doc/Section_commands.html#cmd-5)
+
 ### Software Installation
 [Installing PBS on Ubuntu](https://jabriffa.wordpress.com/2015/02/11/installing-torquepbs-job-scheduler-on-ubuntu-14-04-lts/)
 
