@@ -7,6 +7,9 @@
 
 [LAMMPS commands](http://lammps.sandia.gov/doc/Section_commands.html#cmd-5)
 
+### Programming
+[RegEx - Quick Reference](https://www.regular-expressions.info/quickstart.html)
+
 ### Software Installation
 [Installing PBS on Ubuntu](https://jabriffa.wordpress.com/2015/02/11/installing-torquepbs-job-scheduler-on-ubuntu-14-04-lts/)
 
