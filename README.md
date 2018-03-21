@@ -7,7 +7,10 @@
 
 [LAMMPS commands](http://lammps.sandia.gov/doc/Section_commands.html#cmd-5)
 
-### Programming
+### Python
+[matplotlib Tutorial](https://realpython.com/python-matplotlib-guide/)
+
+### Programming (general)
 [RegEx - Quick Reference](https://www.regular-expressions.info/quickstart.html)
 
 ### Software Installation
