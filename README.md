@@ -21,5 +21,8 @@
 
 ## Bash stuff
 
+### File editing
+`sed -i '' 's/bar/baz/g' foo.txt` - Find and replace within a file (Note, the empty string after `-i` is only needed for MacOS)
+
 ### System status
 `nvidia-smi` - Check current status of NVIDIA GPUs
